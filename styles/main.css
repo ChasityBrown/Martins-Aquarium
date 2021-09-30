@@ -1,0 +1,26 @@
+@import url("./Fishes.css");
+
+body {
+    background-image: url("https://i.giphy.com/media/ZTAojHK9IHsSQ/giphy.webp");
+      background-size: cover;
+      color: white;
+}
+
+h1 {
+    text-align: center;
+    
+}
+.Pic {
+    max-width: 200px;
+    height: 200px;
+    padding-top: 20px;
+}
+.Quotes {
+    border: 2px violet solid;
+    margin: 5px;
+}
+
+.Locations {
+    border: 2px violet solid;
+    margin: 5px;  
+}
